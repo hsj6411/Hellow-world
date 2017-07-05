@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <windows.h>
+
+int main()
+{
+        if(True){
+                printf("hellow world");
+        }
+        
+        if(false){
+                printf("error");
+      }
+      
+      return 0;
+      }
